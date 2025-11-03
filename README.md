@@ -1,4 +1,4 @@
-```markdown
+
 # 👨🏻‍💼 HR Insights Pro: Employee Retention & Performance Analytics | SQL · Python · Power BI  
 This project demonstrates a **real-world end-to-end HR analytics workflow**, reflecting the key responsibilities of a professional **Data Analyst**. It covers the full journey from **data extraction, cleaning, modeling, and analysis** to **interactive visualization and business recommendations** using enterprise-level tools.  
 
